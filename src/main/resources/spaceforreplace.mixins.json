@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.ludocrypt.spaceforreplace.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"client": [
+		"TextFieldWidgetMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
